@@ -1,0 +1,13 @@
+﻿  CalculatorTests.cpp
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(104,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(102,7): warning C4101: sign: неиспользованная локальная переменная
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(129,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(127,7): warning C4101: sign: неиспользованная локальная переменная
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(292,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(409,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(543,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(605,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Calculator.cpp(616,17): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Debug\CalculatorTests.lib и объект C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Debug\CalculatorTests.exp
+  CalculatorTests.vcxproj -> C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Debug\CalculatorTests.dll

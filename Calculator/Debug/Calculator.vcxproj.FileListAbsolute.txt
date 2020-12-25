@@ -1,0 +1,2 @@
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Debug\Calculator.exe
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Calculator\Debug\Calculator.pdb
